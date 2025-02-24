@@ -1,4 +1,5 @@
-![React Todo App](./TodoList Project Image.png)
+![React Todo App]
+
 # React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
